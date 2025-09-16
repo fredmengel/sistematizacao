@@ -1,5 +1,6 @@
 #Link vídeo: https://youtu.be/pK-O9k59HUA
 #Link Replit: https://replit.com/@fredengel/sistematizacao-projeto-3
+#Link GitHub: https://github.com/fredmengel/sistematizacao
 
 #main.py
 from funcionario import Funcionario

@@ -92,6 +92,4 @@ python -m unittest discover tests
 - Interface gráfica (Tkinter/PyQt) ou versão web (Flask/FastAPI);  
 - Relatórios de ocupação e histórico de reservas.  
 
----
 
-👉 Esse protótipo demonstra na prática como a **Engenharia de Software** contribui para organizar, planejar e validar o desenvolvimento de sistemas.  
